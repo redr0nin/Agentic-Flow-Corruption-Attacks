@@ -121,7 +121,7 @@ Included in this repository is a folder of markdown files, with individual attac
 Case Study 1: Compromised Windows Event Logs Lead to Security Degradation (Environmental Log Manipulation)<br>
 Case Study 2: RAG Server Log Poisoning Leads to AI-Assisted Remote Code Execution & Privilege Escalation (RAG System Log Poisoning)<br>
 Case Study 3: PowerShell Alias Poisoning Leads to Upstream Remote Code Execution (PowerShell Profile Manipulation)<br>
-Case Study 4: Pseudo SMB "Loot" Leads to AI Assisted NTLMv2 Hash Capture<br>
+Case Study 4: Pseudo SMB "Loot" Leads to AI Assisted NTLMv2 Hash Capture (SMB Loot Baiting)<br>
 
 ## Conclusion
 
